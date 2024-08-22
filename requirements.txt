@@ -1,0 +1,4 @@
+intersight
+prettytable
+python-dotenv
+pyVmomi
